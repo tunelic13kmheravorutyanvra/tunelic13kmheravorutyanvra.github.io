@@ -156,6 +156,7 @@ header .intro-book {
 	}
 }
 
+
 header .intro-text { 
 	position: relative;
 }
@@ -165,7 +166,11 @@ header .intro-text {
 		width:200px;
 		position: relative;
 		margin:0 auto;
-		bottom:-100px;
+		bottom:-40px;
+	}
+	#price{
+		display: inline!important;
+		margin: auto auto;
 	}
 }
 
